@@ -102,5 +102,3 @@ for query_statement in query_statements:
 log_progress('Process Complete.')
 
 sql_connection.close()
-
-#url = "https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks"
